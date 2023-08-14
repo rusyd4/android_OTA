@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "rusyd4",
+			"oem": "POCO",
+			"device": "POCO M4 PRO 4G",
+			"filename": "crDroidAndroid-13.0-20230814-fleur-v9.8.zip",
+			"download": "https://sourceforge.net/projects/crdroid/files/fleur/9.x/crDroidAndroid-13.0-20230814-fleur-v9.8.zip/download",
+			"timestamp": 1692008626,
+			"md5": "7b30dd53ebd500531558547964e19bff",
+			"sha256": "3d22148b4cd0acae6efa1bf8f6d3808e151c1aaa539c5167f3ead39bef0b4bb8",
+			"size": 1075919621,
+			"version": "9.8",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/rusyd4_group",
+			"gapps": "https://androidfilehost.com/?fid=14871746926876840643",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/rusyd4_files",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
